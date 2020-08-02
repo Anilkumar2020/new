@@ -1,0 +1,6 @@
+this is frist commit
+<<<<<<< HEAD
+is is f1
+=======
+f2 feature v 
+>>>>>>> f2
